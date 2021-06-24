@@ -1,0 +1,401 @@
+*{
+	margin:0;
+    
+}
+body{
+	height:650px;
+    background: #e8f6ff;
+}
+#sistema{
+	height:650px;
+    background: #e8ffe8;
+}
+#topo{
+	margin-top:0;
+	font-size:60px;
+	color: #8bb9d9;
+	text-shadow:0em 0em 0.1em #fff;
+}
+
+#topo1{
+	margin-top:0;
+	font-size:60px;
+	color: #8bd98f;
+	text-shadow:0em 0em 0.1em #fff;
+}
+
+#topo2{
+	margin-top:0px;
+	font-size:60px;
+	color: #26829e;
+	text-shadow:0em 0em 0.1em #fff;
+}
+
+#topo5{
+	margin-top:0px;
+	font-size:60px;
+	color: #000;
+	text-shadow:0em 0em 0.1em #fff;
+}
+
+#boca1{
+	float:relative;	
+	margin-top: 100px;
+	margin-left: 1000px;
+}
+
+#boca2{
+	float:relative;	
+	margin-top: -200px;
+	margin-left: -1000px;
+}
+
+#boca3{
+	float:relative;	
+	margin-top: 100px;
+	margin-left: -0px;
+}
+
+#corpo1{
+	margin-top:-80px;
+}
+
+#boca{
+	float:relative;
+	margin-top: -415px;
+	margin-left: 515px;
+	font-size:18px;
+}
+
+#glandulas{
+	float:relative;
+	margin-top: -13px;
+	margin-left: 380px;
+	font-size:18px;
+}
+
+#esofago{
+	float:relative;
+	margin-top: 7px;
+	margin-left: 470px;
+	font-size:18px;
+}
+
+#estomago{
+	float:relative;
+	margin-top: -15px;
+	margin-left: 815px;
+	font-size:18px;
+}
+
+#figado{
+	float:relative;
+	margin-top: -29px;
+	margin-left: 470px;
+	font-size:18px;
+}
+
+#visicula{
+	float:relative;
+	margin-top: 0px;
+	margin-left: 375px;
+	font-size:18px;
+}
+
+#pancreas{
+	float:relative;
+	margin-top: -8px;
+	margin-left: 440px;
+	font-size:18px;
+}
+
+#grosso{
+	float:relative;
+	margin-top: -60px;
+	margin-left: 810px;
+	font-size:18px;
+}
+
+#delgado{
+	float:relative;
+	margin-top: 5px;
+	margin-left: 830px;
+	font-size:18px;
+}
+
+#apendice{
+	float:relative;
+	margin-top: 8px;
+	margin-left: 440px;
+	font-size:18px;
+}
+
+#reto{
+	float:relative;
+	margin-top: -3px;
+	margin-left: 830px;
+	font-size:18px;
+}
+
+#anus{
+	float:relative;
+	margin-top: -30px;
+	margin-left: 470px;
+	font-size:18px;
+}
+
+#perguntas{
+	width:900px;
+	margin-top:-750px;
+	margin-left:401px;
+	font-size:30px;
+	color: #000;
+	text-align:justify;
+}
+
+#ordenar{
+	margin-left:40px;
+}
+
+
+
+#escolha{
+    margin-left:335px ;
+}
+
+#escolha2{
+    margin-left:-100px ;
+	
+}
+
+#escolha button{
+
+    margin-left: 100px;
+    color:#000;
+	font-size:25px;
+	width:200px;
+	height:50px;
+	background:#d2eafa;
+	border:1px solid;	
+}
+
+#escolha2 button{
+
+    margin-left: 100px;
+    color:#000;
+	font-size:25px;
+	width:200px;
+	height:50px;
+	background:#d2eafa;
+	border:1px solid;	
+}
+
+#escolha1 button{
+
+    margin-left: 0;
+    margin: 12px;
+    color:#000;
+	font-size:25px;
+	width:400px;
+	height:95px;
+	background:#9b9996;
+	border:1px solid;	
+}
+
+#escolha button:hover
+{
+	background:#e0f4ff;
+	padding:5px;
+}
+#rodape{
+
+	margin-top:60;
+	padding:0;
+	width:auto;
+	height:50px;
+	color:#8bb9d9;
+	text-align:center;
+	line-height:15px;
+	font-size:25px;
+	background-color:#e0f3ff;
+	text-shadow:0em 0em 0.1em #fff;
+}
+#conjuntoA{
+
+	margin-top:300px;
+	margin-bottom:400px;
+	margin-left:360px;
+	width:650px;
+	height: 600px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoB{
+
+	margin-top:300px;
+	margin-bottom:-10px;
+	margin-left:360px;
+	width:650px;
+	height: 600px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoC{
+
+	margin-top:300px;
+	margin-bottom:-10px;
+	margin-left:360px;
+	width:650px;
+	height: 1750px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoD{
+
+	margin-top:300px;
+	margin-bottom:100px;
+	margin-left:360px;
+	width:650px;
+	height: 800px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoE{
+
+	margin-top:300px;
+	margin-bottom:00px;
+	margin-left:360px;
+	width:650px;
+	height: 300px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoF{
+
+	margin-top:300px;
+	margin-bottom:1900px;
+	margin-left:360px;
+	width:650px;
+	height: 300px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjuntoG{
+
+	margin-top:300px;
+	margin-bottom:1000px;
+	margin-left:360px;
+	width:650px;
+	height: 300px;
+	float:relative;
+	line-height:40px;
+}
+
+#conjunto1{
+	height:100px;
+	width:100%;
+	margin-top:-700px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto2{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto3{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto4{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto5{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto6{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#conjunto7{
+	height:100px;
+	width:100%;
+	margin-top:-250px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+
+#titulo2{
+	height:100px;
+	width:100%;
+	margin-top:0;
+	font-size:50px;
+	color: #a9f5ad;
+	text-shadow:0em 0em 0.1em #000;
+	text-align:justify;
+}
+#conteudo{
+	width:600px;
+	margin-top:-20;
+	margin-left:380px;
+	font-size:25px;
+	color: #000;
+	text-align:justify;
+}
+#invisivel{
+	float: relative;
+	margin-top: -20px;
+	margin-left:650px;
+	background-repeat: no-repeat;
+}
+#invisivel button{
+	float: relative;
+	margin-top: -200px;
+	background-color: #8c8c8c;
+	border: none;
+}
+#invisivel input{
+
+	background-color: #8c8c8c;
+	border: none;
+}
+#topo4{
+	font-size:80px;
+	color: #c4180c;
+	text-shadow:0em 0em 0.1em;
+}
